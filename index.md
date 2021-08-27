@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Selected Publications</h1>
