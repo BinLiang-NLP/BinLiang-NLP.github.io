@@ -19,7 +19,7 @@
     <td width="100%">
       <h1>Selected Publications</h1>
       <h3><b>Conference:</b></h3>
-      <p>Context-aware Embedding for Targeted Aspect-based Sentiment Analysis (<b><i>ACL 2019，CCF A</i></b>)</p>
+      <p><a href="https://aclanthology.org/P19-1462.pdf">Context-aware Embedding for Targeted Aspect-based Sentiment Analysis</a> (<b><i>ACL 2019</i>，CCF A</b>)</p>
       <p>Target-adaptive Graph for Cross-target Stance Detection (<b>WWW 2021，CCF A</b>)</p>
       <p>Affective Dependency Graph for Sarcasm Detection (<b>SIGIR 2021, CCF A</b>)</p>
       <p>Multi-Modal Sarcasm Detection with Joint In-Modal and Cross-Modal Graphs (<b>ACM MM 2021, CCF A</b>)</p>
