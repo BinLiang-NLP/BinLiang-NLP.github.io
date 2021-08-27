@@ -14,3 +14,13 @@
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <td width="100%">
+      <h1>Selected Publications</h1>
+      <p><b>Context-aware Embedding for Targeted Aspect-based Sentiment Analysis (ACL 2019，CCF A)</b></p>
+      <p><b>Target-adaptive Graph for Cross-target Stance Detection (WWW 2021，CCF A)</b></p>
+      <p><b>Affective Dependency Graph for Sarcasm Detection (SIGIR2021, CCF A)</b></p>
+    </td>
+  </tr>
+</table>
