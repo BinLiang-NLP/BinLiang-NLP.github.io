@@ -8,7 +8,7 @@
       <p><b>Research Interests：NLP & DM</b></p>
     </td>
     <td width="25%">
-      <img src="/binliang.jpeg" width="100%">      % 插入证件照代码
+      <img src="/binliang.jpeg" width="100%">
     </td>
   </tr>
 </table>
