@@ -6,7 +6,7 @@
       <p><b>GitHub: https://github.com/BinLiang-NLP</b></p>
       <p><b>Research Interests：natural language processing & data mining</b></p>
       <p><b>Phone: (+86) 18664274956</b></p>
-      <p><b>E-mail: [bin.liang@stu.hit.edu.cn](bin.liang@stu.hit.edu.cn)</b></p>
+      <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
     </td>
     <td width="20%">
       <img src="/binliang.jpeg" width="100%">
