@@ -18,6 +18,7 @@
   <tr>
     <td width="100%">
       <h1>Selected Publications</h1>
+      <h2>Conference:</h2>
       <p><b>Context-aware Embedding for Targeted Aspect-based Sentiment Analysis (ACL 2019，CCF A)</b></p>
       <p><b>Target-adaptive Graph for Cross-target Stance Detection (WWW 2021，CCF A)</b></p>
       <p><b>Affective Dependency Graph for Sarcasm Detection (SIGIR 2021, CCF A)</b></p>
@@ -27,9 +28,10 @@
 Analysis (CIKM 2020，CCF B)</b></p>
       <p><b>Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect
 Sentiment Analysis (COLING 2020，CCF B)</b></p>
+      <p><b>Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning (CIKM 2021，CCF B)</b></p>
+      <h2>Journal:</h2>
       <p><b>Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis (IEEE Transactions on Affective Computing, JCR Q1, IF 10.506)</b></p>
       <p><b>Aspect-Based Sentiment Analysis via Affective Knowledge Enhanced Graph Convolutional Networks (Knowledge-based Systems, JCR Q1, IF 8.038)</b></p>
-      <p><b>Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning (CIKM 2021，CCF B)</b></p>
     </td>
   </tr>
 </table>
