@@ -26,8 +26,7 @@
       <p><a href="http://wrap.warwick.ac.uk/153596/7/WRAP-affective-dependency-graph-sarcasm-detection-Gui-2021.pdf">Affective Dependency Graph for Sarcasm Detection</a> (<b><i>SIGIR 2021</i>, CCF A</b>)</p>
       <p>Multi-Modal Sarcasm Detection with Joint In-Modal and Cross-Modal Graphs (<b>ACM MM 2021, CCF A</b>)</p>
       <p>Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge (<b>EMNLP 2021, CCF B</b>)</p>
-      <p>Aspect-Invariant Sentiment Feature Learning: Adversarial Multi-task Learning for Aspect-Based Sentiment
-Analysis (<b>CIKM 2020，CCF B</b>)</p>
+      <p><a href="https://dl.acm.org/doi/10.1145/3340531.3411868">Aspect-Invariant Sentiment Feature Learning: Adversarial Multi-task Learning for Aspect-Based Sentiment Analysis </a> (<b><i>CIKM 2020</i>，CCF B</b>)</p>
       <p>Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect
 Sentiment Analysis (<b>COLING 2020，CCF B</b>)</p>
       <p>Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning (<b>CIKM 2021，CCF B</b>)</p>
