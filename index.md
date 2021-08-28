@@ -1,6 +1,6 @@
 <table border="1">
   <tr>
-    <td width="80%">
+    <td width="75%">
       <h1>Bin Liang</h1>
       <h3><b>Ph.D. Candidate</b></h3>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
@@ -10,7 +10,7 @@
       <p><b>Phone: (+86) 18664274956</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
     </td>
-    <td width="20%">
+    <td width="25%">
       <img src="/binliang.jpeg" width="100%">
     </td>
   </tr>
