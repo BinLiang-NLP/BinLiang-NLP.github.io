@@ -19,7 +19,7 @@
 <table border="1">
   <tr>
     <td width="100%">
-      <h1>Selected Publications</h1>
+      <h1>Selected Publications (The First Author)</h1>
       <h3><b>Conference:</b></h3>
       <p><a href="https://aclanthology.org/P19-1462.pdf">Context-aware Embedding for Targeted Aspect-based Sentiment Analysis</a> (<b><i>ACL 2019</i>，CCF A</b>)</p>
       <p><a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449790">Target-adaptive Graph for Cross-target Stance Detection</a> (<b><i>WWW 2021</i>，CCF A</b>)</p>
