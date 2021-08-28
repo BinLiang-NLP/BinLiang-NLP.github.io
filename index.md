@@ -23,7 +23,7 @@
       <h3><b>Conference:</b></h3>
       <p><a href="https://aclanthology.org/P19-1462.pdf">Context-aware Embedding for Targeted Aspect-based Sentiment Analysis</a> (<b><i>ACL 2019</i>，CCF A</b>)</p>
       <p><a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449790">Target-adaptive Graph for Cross-target Stance Detection</a> (<b><i>WWW 2021</i>，CCF A</b>)</p>
-      <p>Affective Dependency Graph for Sarcasm Detection (<b>SIGIR 2021, CCF A</b>)</p>
+      <p><a href="http://wrap.warwick.ac.uk/153596/7/WRAP-affective-dependency-graph-sarcasm-detection-Gui-2021.pdf">Affective Dependency Graph for Sarcasm Detection</a> (<b><i>SIGIR 2021</i>, CCF A</b>)</p>
       <p>Multi-Modal Sarcasm Detection with Joint In-Modal and Cross-Modal Graphs (<b>ACM MM 2021, CCF A</b>)</p>
       <p>Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge (<b>EMNLP 2021, CCF B</b>)</p>
       <p>Aspect-Invariant Sentiment Feature Learning: Adversarial Multi-task Learning for Aspect-Based Sentiment
