@@ -2,9 +2,11 @@
   <tr>
     <td width="80%">
       <h1>Bin Liang</h1>
-      <p><b>Education: PhD Student at Harbin Institute of Technology, Shenzhen</b></p>
-      <p><b>GitHub: <a href="https://github.com/BinLiang-NLP">https://github.com/BinLiang-NLP</a></b></p>
+      <h3><b>Ph.D. Candidate</b></h3>
+      <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>Research Interests：natural language processing & data mining</b></p>
+      <p><b>Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">BinLiang-HIT</a></b></p>
+      <p><b>GitHub: <a href="https://github.com/BinLiang-NLP">https://github.com/BinLiang-NLP</a></b></p>
       <p><b>Phone: (+86) 18664274956</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
     </td>
