@@ -27,7 +27,7 @@
       <p>Multi-Modal Sarcasm Detection with Joint In-Modal and Cross-Modal Graphs (<b>ACM MM 2021, CCF A</b>)</p>
       <p>Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge (<b>EMNLP 2021, CCF B</b>)</p>
       <p><a href="https://dl.acm.org/doi/10.1145/3340531.3411868">Aspect-Invariant Sentiment Feature Learning: Adversarial Multi-task Learning for Aspect-Based Sentiment Analysis </a> (<b><i>CIKM 2020</i>，CCF B</b>)</p>
-      <p><a href="https://www.aclweb.org/anthology/2020.coling-main.13/">Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis</a> (<b><i>COLING 2020</i>，CCF B</b>)</p>
+      <p><a href="https://www.aclweb.org/anthology/2020.coling-main.13/">Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis</a> (<b><i>COLING 2020</i>，CCF B</b>) <a href="https://github.com/BinLiang-NLP/InterGCN-ABSA">[code]</a></p>
       <p>Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning (<b>CIKM 2021，CCF B</b>)</p>
       <h3><b>Journal:</b></h3>
       <p>Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis (<b>IEEE Transactions on Affective Computing, JCR Q1, IF 10.506</b>)</p>
