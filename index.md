@@ -30,7 +30,7 @@
       <p><a href="https://www.aclweb.org/anthology/2020.coling-main.13/">Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis</a> (<b><i>COLING 2020</i>，CCF B</b>) <a href="https://github.com/BinLiang-NLP/InterGCN-ABSA">[code]</a></p>
       <p>Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning (<b>CIKM 2021，CCF B</b>)</p>
       <h3><b>Journal:</b></h3>
-      <p>Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis (<b>IEEE Transactions on Affective Computing, JCR Q1, IF 10.506</b>)</p>
+      <p><a href="https://ieeexplore.ieee.org/document/9397340">Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis</a> (<b><i>IEEE Transactions on Affective Computing</i>, JCR Q1, IF 10.506</b>)</p>
       <p>Aspect-Based Sentiment Analysis via Affective Knowledge Enhanced Graph Convolutional Networks (<b>Knowledge-based Systems, JCR Q1, IF 8.038</b>)</p>
     </td>
   </tr>
