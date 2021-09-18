@@ -36,10 +36,4 @@
   </tr>
 </table>
 
-<table border="1">
-  <tr>
-    <td width="100%">
-    <body><p><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></p></body>
-    </td>
-</tr>
-</table>
+<body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
