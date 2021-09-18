@@ -35,3 +35,6 @@
     </td>
   </tr>
 </table>
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff&w=a"></script>
