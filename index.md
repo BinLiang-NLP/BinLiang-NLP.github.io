@@ -7,7 +7,7 @@
  <br />
  Harbin Institute of Technology, Shenzhen, China
  
-<br />
+
 Email: bin.liang@stu.hit.edu.cn <br />
 [<a class="p1" href="https://scholar.google.com/citations?user=djpQeLEAAAAJ&hl=zh-CN&authuser=1" target="_blank">Google Scholar</a>] [<a class="p2" href="https://github.com/BinLiang-NLP" target="_blank">Github</a>]</p>
 </td></tr></table>
