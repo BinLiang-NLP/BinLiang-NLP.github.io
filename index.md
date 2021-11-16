@@ -3,7 +3,8 @@
 <td align="left"><p><font size="4">Bin Liang (梁 斌)</font><br />
 <br />
 <a href="http://www.hitsz-hlt.com/">HIT-HLT</a><br />
- School of Computer Science and Technology</p>
+ School of Computer Science and Technology
+
  Harbin Institute of Technology, Shenzhen, China
 <br />
 Email: bin.liang@stu.hit.edu.cn <br />
