@@ -2,16 +2,12 @@
 <a href="./"><img src="./binliang.jpeg" alt="" height="200px" /></a>&nbsp;</td>
 <td align="left"><p><font size="4">Bin Liang (梁 斌)</font><br />
 <br />
-<a href="https://vision.ee.ethz.ch/the-institute.html">Computer Vision Lab</a><br />
- Department of Information Technology and Electrical Engineering, <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a><br />
+<a href="http://www.hitsz-hlt.com/">HIT-HLT</a><br />
+ School of Computer Science and Technology
+ Harbin Institute of Technology, Shenzhen, China
 <br />
-ETF D117,
-Sternwartstrasse 7, ETH Zentrum 8092, Zurich, Switzerland<br />
-
-<br />
-Email: cskaizhang@gmail.com <br />
-[<a class="p1" href="https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ&hl" target="_blank">Google Scholar</a>] [<a class="p2" href="https://github.com/cszn" target="_blank">Github</a>]
-[<a href="https://www.researchgate.net/profile/Kai_Zhang210" target="_blank">ResearchGate</a>]</p>
+Email: bin.liang@stu.hit.edu.cn <br />
+[<a class="p1" href="https://scholar.google.com/citations?user=djpQeLEAAAAJ&hl=zh-CN&authuser=1" target="_blank">Google Scholar</a>] [<a class="p2" href="https://github.com/BinLiang-NLP" target="_blank">Github</a>]</p>
 </td></tr></table>
 
 
