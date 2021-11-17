@@ -1,18 +1,80 @@
----
-title: Minimal Text
-baseurl: "/Minimal-Text"
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
-excerpt_separator: "<!-- more -->"
-markdown: kramdown
-gems:
-- jekyll-paginate
-exclude:
-  - .jekyll-metadata
-  - README.md
-  - CNAME
-paginate: 5
-paginate_path: "/:num/"
-highlighter: rouge
+# Site Settings
+lang: en
+title: Bulma Clean Theme
+tagline: Bulma Clean Theme
+email: your-email@domain.com
+description: >
+  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+baseurl: "/bulma-clean-theme"
+url: "https://www.csrhymes.com"
 permalink: pretty
+#favicon: /path/to/favicon.png
+gh_sponsor: chrisrhymes
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  shortname: csrhymes
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
+
+footer_menu: example_footer_menu
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
