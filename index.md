@@ -245,7 +245,7 @@ Ruifeng Xu<br>
   <li>Outstanding Student Paper Award of Soochow University, 2018</li>
   <li>National Scholarship for Postgraduate Students, 2017</li>
   <li>First Prize of BDCI Competition, 2016 </li>
-  <li>Cecond Prize of BDCI Competition, 2015 </li>
+  <li>Second Prize of BDCI Competition, 2015 </li>
 </ul>
     </td>
   </tr>
