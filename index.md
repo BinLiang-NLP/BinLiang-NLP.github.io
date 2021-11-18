@@ -65,10 +65,10 @@
     <td width="100%">
       <h1>News</h1>
 <ul>
-<li>Oct 2021  Bin Liang won the national scholarship. <a href="http://119.23.18.63/?p=1913">[link]</a></li>
-<li>Aug 2021  Two papers are accepted to <a href="https://2021.emnlp.org/">EMNLP 2021 Main Conference</a>. <a href="http://119.23.18.63/?p=1790">[link]</a></li>
-<li>Aug 2021  One paper is accepted to <a href="http://www.cikm2021.org/">CIKM 2021</a>. <a href="http://119.23.18.63/?p=1761">[link]</a></li>
-<li>Aug 2021  One paper is accepted to <a href="https://2021.acmmm.org/">ACM MM (oral)</a>. <a href="http://119.23.18.63/?p=1755">[link]</a></li>
+<li>Oct 2021 &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> Bin Liang won the national scholarship.</li>
+<li>Aug 2021 &emsp; Two papers are accepted to <a href="https://2021.emnlp.org/">EMNLP 2021 Main Conference</a>. <a href="http://119.23.18.63/?p=1790">[link]</a></li>
+<li>Aug 2021 &emsp; <a href="http://119.23.18.63/?p=1761">[link]</a> One paper is accepted to <a href="http://www.cikm2021.org/">CIKM 2021</a>.</li>
+<li>Aug 2021 &emsp; <a href="http://119.23.18.63/?p=1755">[link]</a> One paper is accepted to <a href="https://2021.acmmm.org/">ACM MM (oral)</a>.</li>
 </ul>
     </td>
   </tr>
