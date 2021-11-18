@@ -50,20 +50,6 @@
 <table border="1">
   <tr>
     <td width="100%">
-      <h1>Academic Services</h1>
-<ul>
-<li>Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc.</li>
-<li>Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc.</li>
-</ul>
-    </td>
-  </tr>
-</table>
-
-
-
-<table border="1">
-  <tr>
-    <td width="100%">
       <h1>News</h1>
 <ul>
 <li>Oct. 2021 &emsp; Bin Liang won the national scholarship. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
@@ -218,5 +204,34 @@ Ruifeng Xu<br>
  </td>
  </tr>
 </table>
+
+
+<table border="1">
+  <tr>
+    <td width="100%">
+      <h1>Academic Services</h1>
+      Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc. Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc.
+Program committee of Conferences:
+      <ul>
+        <li>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>)</li>
+        <li>Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>)</li>
+        <li>The North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>)</li>
+        <li>International Conference on Computational Linguistics (<b>COLING</b>)</li>
+        <li>The Web Conference (<b>WWW</b>)</li>
+        <li>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</li>
+        <li>International Joint Conferences on Artificial Intelligence (<b>IJCAI</b>)</li>
+      </ul>
+Reviewer of Journal:
+      <ul>
+        <li>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</li>
+        <li>IEEE Transactions on Affective Computing (<b>TAC</b>)</li>
+        <li>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</li>
+        <li>Knowledge-based Systems (<b>KBS</b>)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 
 <body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
