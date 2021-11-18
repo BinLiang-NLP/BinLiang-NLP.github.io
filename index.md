@@ -2,7 +2,7 @@
 <table border="1">
   <tr>
     <td width="25%">
-      <img src="/binliang-s.png" width="100%">
+      <img src="/binliang-a.jpeg" width="100%">
     </td>
     <td width="75%">
       <h1>Bin Liang</h1>
