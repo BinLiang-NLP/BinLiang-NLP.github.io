@@ -84,13 +84,12 @@
 </table>
 
 
-
+<h1>Selected Publications</h1>
 <table class="imgtable" border="1">
   <tr>
-    <td width="100%">
-      <h1>Selected Publications</h1>
-      
-      <tr>
+    
+  <!-- EMNLP 2021-->
+  <tr>
       <td><img class="proj_thumb" src="/diagrams/emnlp2021.pdf" alt="" height="100px"/>&nbsp;</td>
       <td>
       <p class="pub_title">Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge </p>
@@ -113,7 +112,6 @@
       
       <p><a href="https://ieeexplore.ieee.org/document/9397340">Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis</a> (<b><i>IEEE Transactions on Affective Computing</i>, JCR Q1, IF 10.506</b>)</p>
       <p>Aspect-Based Sentiment Analysis via Affective Knowledge Enhanced Graph Convolutional Networks (<b>Knowledge-based Systems, JCR Q1, IF 8.038</b>)</p>
-    </td>
   </tr>
 </table>
 
