@@ -90,7 +90,6 @@
     <td width="100%">
       <h1>Selected Publications</h1>
       
-      <!-- EMNLP 2021-->
       <tr>
       <td><img class="proj_thumb" src="/diagrams/emnlp2021.pdf" alt="" height="100px"/>&nbsp;</td>
       <td>
