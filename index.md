@@ -99,7 +99,45 @@
       [<a href="https://github.com/BinLiang-NLP/AAGCN-ACSA" target="_blank">Code</a>] 
       [<a href="https://aclanthology.org/2021.emnlp-main.19.bib" target="_blank">BibTex</a>]
       </p> </td>
-      </tr>
+   </tr>
+  
+  <!-- CIKM 2021-->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/cikm2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning </p>
+      <p class="pub_author"><b>Bin Liang</b>, Wangda Luo, Xiang Li, Lin Gui, Min Yang, Xiaoqi Yu, Ruifeng Xu<br>
+      The 30th ACM International Conference on Information and Knowledge Management (<b>CIKM 2021</b>).<br>
+      [<a href= "https://dl.acm.org/doi/pdf/10.1145/3459637.3482096" target="_blank">Paper</a>] 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482096" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- ACM MM 2021-->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/mm2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Multi-Modal Sarcasm Detection with Interactive In-Modal and Cross-Modal Graphs </p>
+      <p class="pub_author"><b>Bin Liang</b>, Chenwei Lou, Xiang Li, Lin Gui, Min Yang, Ruifeng Xu<br>
+      The 29th ACM International Conference on Multimedia (<b>ACM MM 2021</b>).<br>
+      [<a href= "https://dl.acm.org/doi/abs/10.1145/3474085.3475190" target="_blank">Paper</a>] 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475190" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- KBS -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/kbs.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Aspect-Based Sentiment Analysis via Affective Knowledge Enhanced Graph Convolutional Networks </p>
+      <p class="pub_author"><b>Bin Liang</b>, Hang Su, Lin Gui, Erik Cambria, Ruifeng Xu<br>
+      Knowledge-based Systems (<b>KBS</b>) 2021.<br>
+      [<a href= "https://www.sentic.net/sentic-gcn.pdf" target="_blank">Paper</a>] 
+      [<a href= "https://github.com/BinLiang-NLP/SenticGCN" target="_blank">Code</a>] 
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0950705121009059" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
   </table>
  </td>
  </tr>
