@@ -90,7 +90,7 @@
 <table class="imgtable" border="1">    
   <!-- EMNLP 2021-->
   <tr>
-      <td><img class="proj_thumb" src="/diagrams/emnlp2021.PNG" alt="" height="100px"/>&nbsp;</td>
+      <td><img class="proj_thumb" src="/diagrams/emnlp2021.png" alt="" height="100px"/>&nbsp;</td>
       <td>
       <p class="pub_title">Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge </p>
       <p class="pub_author"><b>Bin Liang</b>, Hang Su, Rongdi Yin, Lin Gui, Min Yang, Qin Zhao, Xiaoqi Yu, Ruifeng Xu<br>
