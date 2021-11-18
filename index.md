@@ -32,7 +32,7 @@
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
-      BinLiang's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, I focus on the following research topics (but not limited to):
+      BinLiang's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
 <ul>
 <li>Textual sentiment analysis</li>
 <li>Multimodal sentiment analysis</li>
@@ -44,6 +44,21 @@
     </td>
   </tr>
 </table>
+
+
+
+<table border="1">
+  <tr>
+    <td width="100%">
+      <h1>Academic Services</h1>
+<ul>
+<li>Program committee of ACL, EMNLP, NAACL, WWW, AAAI, IJCAI, COLING, etc.</li>
+<li>Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+
 
 
 
