@@ -1,3 +1,9 @@
+<!-- Project
+<div class="menu"> <a href="#home">Home</a> 
+<a href="#publications">Publications</a> 
+</div>
+ -->
+
 <table border="1">
   <tr>
     <td width="25%">
@@ -94,11 +100,11 @@
       
       <!-- EMNLP 2021-->
       <tr>
-      <td><img class="proj_thumb" src="./diagrams/emnlp2021" alt="" height="100px"/>&nbsp;</td>
+      <td><img class="proj_thumb" src="./diagrams/emnlp2021.pdf" alt="" height="100px"/>&nbsp;</td>
       <td>
       <p class="pub_title">Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge </p>
       <p class="pub_author"><b>Bin Liang</b>, Hang Su, Rongdi Yin, Lin Gui, Min Yang, Qin Zhao, Xiaoqi Yu, Ruifeng Xu<br>
-      The 2021 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2021</b>).<br>
+      The 2021 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2021</b>).<br>
       [<a href= "https://aclanthology.org/2021.emnlp-main.19.pdf" target="_blank">Paper</a>] 
       [<a href="https://github.com/BinLiang-NLP/AAGCN-ACSA" target="_blank">Code</a>] 
       [<a href="https://aclanthology.org/2021.emnlp-main.19.bib" target="_blank">BibTex</a>]
