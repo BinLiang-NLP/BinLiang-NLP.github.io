@@ -11,7 +11,7 @@
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>Research Interests: natural language processing, multimodal learning, and data mining</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
-      <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>]</b></p>
+      <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693">Semantic Scholar</a>]</b></p>
     </td>
   </tr>
 </table>
