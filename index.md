@@ -52,7 +52,7 @@
     <td width="100%">
       <h1>News</h1>
 <ul>
-<li>Oct. 2021 &emsp; Bin Liang won the national scholarship. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
+<li>Oct. 2021 &emsp; Bin Liang won the national scholarship for doctoral students. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
 <li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790">[link]</a></li>
 <li>Aug. 2021 &emsp; One paper is accepted to <strong>CIKM 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1761">[link]</a> </li>
 <li>Jul. 2021 &emsp; One paper is accepted to <strong>ACM MM (oral)</strong>. &emsp; <a href="http://119.23.18.63/?p=1755">[link]</a> </li>
@@ -229,6 +229,24 @@ Ruifeng Xu<br>
         <li>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</li>
         <li>Knowledge-based Systems (<b>KBS</b>)</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+
+<table border="1">
+  <tr>
+    <td width="100%">
+      <h1>Awards</h1>
+<ul>
+  <li>National Scholarship for Doctoral Students, 2021 </li>
+  <li>First Prize of Innovation Group of the Fifth National Youth Artificial Intelligence Innovation of China Artificial Intelligence Society, 2019</li>
+  <li>Outstanding Graduate Award of Soochow University, 2018</li>
+  <li>Outstanding student paper award of Soochow University, 2018</li>
+  <li>National Scholarship for Postgraduate Students, 2017</li>
+  <li>First Prize of BDCI Competition, 2016 </li>
+  <li>Cecond Prize of BDCI Competition, 2015 </li>
+</ul>
     </td>
   </tr>
 </table>
