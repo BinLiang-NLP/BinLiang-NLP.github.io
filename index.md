@@ -10,7 +10,6 @@
       <p><b>Research Interests: natural language processing & data mining</b></p>
       <p><b>Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">BinLiang-HIT</a></b></p>
       <p><b>GitHub: <a href="https://github.com/BinLiang-NLP">https://github.com/BinLiang-NLP</a></b></p>
-      <p><b>Phone: (+86) 18664274956</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
     </td>
   </tr>
