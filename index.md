@@ -240,7 +240,7 @@ Ruifeng Xu<br>
       <h1>Awards</h1>
 <ul>
   <li>National Scholarship for Doctoral Students, 2021 </li>
-  <li>First Prize of Innovation Group of the Fifth National Youth Artificial Intelligence Innovation of China Artificial Intelligence Society, 2019</li>
+  <li>First Prize of Innovation Group of the Fifth National Youth Artificial Intelligence Innovation of Chinese Association for Artificial Intelligence, 2019</li>
   <li>Outstanding Graduate Award of Soochow University, 2018</li>
   <li>Outstanding student paper award of Soochow University, 2018</li>
   <li>National Scholarship for Postgraduate Students, 2017</li>
