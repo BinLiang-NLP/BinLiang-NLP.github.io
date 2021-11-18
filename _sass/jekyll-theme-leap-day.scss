@@ -517,6 +517,63 @@ footer {
 }
 
 
+
+
+
+/* For publication */
+img.eq {
+  padding: 0;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+  margin: 0;
+}
+
+img.eqwl {
+  padding-left: 2em;
+  padding-top: 0.6em;
+  padding-bottom: 0.2em;
+  margin: 0;
+}
+
+img.proj_thumb {
+  width: 180px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  padding: 1px;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+table + table {
+    margin-top: 1em;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+img {
+    border: none;
+}
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
+}
+
+
 /* Publication */
 p.pub_title {
   font-size: 16px;
@@ -531,3 +588,4 @@ p.pub_author{
 p.pub_link{
   font-size: 14px 
 }
+
