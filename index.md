@@ -84,11 +84,13 @@
 
 
 
-
 <table border="1">
   <tr>
     <td width="100%">
+      <a id="publications" class="anchor"></a>
       <h1>Selected Publications</h1>
+      
+      <table class="imgtable">
       
       <!-- EMNLP 2021-->
       <tr>
