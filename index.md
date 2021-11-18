@@ -273,6 +273,8 @@ Ruifeng Xu<br>
 
 <body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
 
+<body><a href='https://clustrmaps.com/site/1bk2o'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&co=635f93&ct=ffffff'/></a></body>
+
 <!-- 
 <body><a href="https://info.flagcounter.com/d2N3"><img src="https://s05.flagcounter.com/map/d2N3/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></body> 
 -->
