@@ -138,6 +138,44 @@
       </p> </td>
    </tr>
   
+  <!-- SIGIR 2021 -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/sigir2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Affective Dependency Graph for Sarcasm Detection </p>
+      <p class="pub_author">Chenwei Lou*<b>Bin Liang*</b>, Lin Gui, Yulan He, Yixue Dang, Ruifeng Xu<br>
+      The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2021</b>).<br>
+      [<a href= "http://wrap.warwick.ac.uk/153596/7/WRAP-affective-dependency-graph-sarcasm-detection-Gui-2021.pdf" target="_blank">Paper</a>] 
+      [<a href="https://dl.acm.org/doi/10.1145/3404835.3463061" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- TAC -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/tac.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Embedding Refinement Framework for Targeted Aspect- based Sentiment Analysis </p>
+      <p class="pub_author"><b>Bin Liang*</b>, Rongdi Yin, Jiachen Du, Lin Gui, Yulan He, Min Yang,
+Ruifeng Xu<br>
+      IEEE Transactions on Affective Computing (<b>TAC</b>) 2021.<br>
+      [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9397340" target="_blank">Paper</a>] 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/9397340" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- WWW 2021 -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/www2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Embedding Refinement Framework for Targeted Aspect- based Sentiment Analysis </p>
+      <p class="pub_author"><b>Bin Liang*</b>, Yonghao Fu, Lin Gui, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<br>
+      The Web Conference 2021 (<b>WWW 2021</b>).<br>
+      [<a href= "http://wrap.warwick.ac.uk/149336/1/WRAP-Target-adaptive-graph-cross-target-stance-detection-2021.pdf" target="_blank">Paper</a>] 
+      [<a href= "https://github.com/BinLiang-NLP/TPDG" target="_blank">Code</a>] 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449790" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
   </table>
  </td>
  </tr>
