@@ -52,7 +52,7 @@
     <td width="100%">
       <h1>Academic Services</h1>
 <ul>
-<li>Program committee of ACL, EMNLP, NAACL, WWW, AAAI, IJCAI, COLING, etc.</li>
+<li>Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc.</li>
 <li>Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc.</li>
 </ul>
     </td>
