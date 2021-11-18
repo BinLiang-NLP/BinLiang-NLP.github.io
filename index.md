@@ -240,9 +240,9 @@ Ruifeng Xu<br>
       <h1>Awards</h1>
 <ul>
   <li>National Scholarship for Doctoral Students, 2021 </li>
-  <li>First Prize of Innovation Group of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
+  <li>First Prize of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
   <li>Outstanding Graduate Award of Soochow University, 2018</li>
-  <li>Outstanding student paper award of Soochow University, 2018</li>
+  <li>Outstanding Student Paper Award of Soochow University, 2018</li>
   <li>National Scholarship for Postgraduate Students, 2017</li>
   <li>First Prize of BDCI Competition, 2016 </li>
   <li>Cecond Prize of BDCI Competition, 2015 </li>
