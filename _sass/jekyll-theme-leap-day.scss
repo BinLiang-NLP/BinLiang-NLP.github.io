@@ -542,28 +542,6 @@ img.proj_thumb {
   padding: 1px;
 }
 
-table {
-    border: 2px solid black;
-    border-collapse: collapse;
-}
-
-td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: left;
-    border: 1px solid gray;
-}
-
-table + table {
-    margin-top: 1em;
-}
-
-tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
-}
-
 img {
     border: none;
 }
@@ -572,6 +550,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
 
 
 /* Publication */
