@@ -140,7 +140,7 @@
   <tr>
       <td><img class="proj_thumb" src="/diagrams/tac.png" alt="" height="100px"/>&nbsp;</td>
       <td>
-      <p class="pub_title">Embedding Refinement Framework for Targeted Aspect- based Sentiment Analysis </p>
+      <p class="pub_title">Embedding Refinement Framework for Targeted Aspect-based Sentiment Analysis </p>
       <p class="pub_author"><b>Bin Liang</b>, Rongdi Yin, Jiachen Du, Lin Gui, Yulan He, Min Yang,
 Ruifeng Xu<br>
       IEEE Transactions on Affective Computing (<b>TAC</b>) 2021.<br>
@@ -153,7 +153,7 @@ Ruifeng Xu<br>
   <tr>
       <td><img class="proj_thumb" src="/diagrams/www2021.png" alt="" height="100px"/>&nbsp;</td>
       <td>
-      <p class="pub_title">Embedding Refinement Framework for Targeted Aspect- based Sentiment Analysis </p>
+      <p class="pub_title">Target-Adaptive Graph for Cross-Target Stance Detection </p>
       <p class="pub_author"><b>Bin Liang</b>, Yonghao Fu, Lin Gui, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<br>
       The Web Conference 2021 (<b>WWW 2021</b>).<br>
       [<a href= "http://www.hitsz-hlt.com/paper/TPDG-WWW2021.pdf" target="_blank">Paper</a>] 
