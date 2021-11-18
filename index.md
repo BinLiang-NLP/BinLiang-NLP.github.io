@@ -1,7 +1,7 @@
 <table border="1">
   <tr>
     <td width="20%">
-      <img src="/binliang.jpeg" width="100%">
+      <img src="/binliang1.jpeg" width="100%">
     </td>
     <td width="80%">
       <h1>Bin Liang</h1>
