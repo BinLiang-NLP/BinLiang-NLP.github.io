@@ -170,9 +170,47 @@ Ruifeng Xu<br>
       <p class="pub_title">Embedding Refinement Framework for Targeted Aspect- based Sentiment Analysis </p>
       <p class="pub_author"><b>Bin Liang*</b>, Yonghao Fu, Lin Gui, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<br>
       The Web Conference 2021 (<b>WWW 2021</b>).<br>
-      [<a href= "http://wrap.warwick.ac.uk/149336/1/WRAP-Target-adaptive-graph-cross-target-stance-detection-2021.pdf" target="_blank">Paper</a>] 
+      [<a href= "http://www.hitsz-hlt.com/paper/TPDG-WWW2021.pdf" target="_blank">Paper</a>] 
       [<a href= "https://github.com/BinLiang-NLP/TPDG" target="_blank">Code</a>] 
       [<a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449790" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- COLING 2020 -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/coling2020.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis </p>
+      <p class="pub_author"><b>Bin Liang*</b>, Rongdi Yin, Lin Gui, Jiachen Du, Ruifeng Xu<br>
+      The 28th International Conference on Computational Linguistics (<b>COLING 2021</b>).<br>
+      [<a href= "https://aclanthology.org/2020.coling-main.13.pdf" target="_blank">Paper</a>] 
+      [<a href= "https://github.com/BinLiang-NLP/InterGCN-ABSA" target="_blank">Code</a>] 
+      [<a href="https://aclanthology.org/2020.coling-main.13.bib" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- CIKM 2020 -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/cikm2020.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Aspect-invariant Sentiment Features Learning: Adversarial Multi-task Learning for Aspect-based Sentiment Analysis </p>
+      <p class="pub_author"><b>Bin Liang*</b>, Rongdi Yin, Lin Gui, Jiachen Du, Yulan He, Ruifeng Xu<br>
+      The 29th ACM International Conference on Information and Knowledge Management (<b>CIKM 2020</b>).<br>
+      [<a href= "https://dl.acm.org/doi/abs/10.1145/3340531.3411868" target="_blank">Paper</a>] 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3340531.3411868" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  
+  <!-- ACL 2019 -->  
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/acl2019.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Context- aware Embedding for Targeted Aspect-based Sentiment Analysis </p>
+      <p class="pub_author"><b>Bin Liang*</b>, Jiachen Du, Ruifeng Xu, Binyang Li, Hejiao Huang<br>
+      The 57th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2019</b>).<br>
+      [<a href= "https://aclanthology.org/P19-1462.pdf" target="_blank">Paper</a>] 
+      [<a href= "https://github.com/BinLiang-NLP/CAER-TABSA" target="_blank">Code</a>] 
+      [<a href="https://aclanthology.org/P19-1462.bib" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
   
