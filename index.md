@@ -22,7 +22,8 @@
       <h1>Biography</h1>
       <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
           Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>
-          and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>.</p>
+          and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>.</p>.
+      He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as ACL, EMNLP, WWW, SIGIR, ACM MM, CIKM, COLING, TAC, etc.
     </td>
   </tr>
 </table>
