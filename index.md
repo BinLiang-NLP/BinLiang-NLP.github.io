@@ -252,5 +252,23 @@ Ruifeng Xu<br>
 </table>
 
 
+<table border="1">
+  <tr>
+    <td width="100%">
+     <h1>Collaborators</h1>
+<ul>
+  <a href= "https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>, &nbsp
+  <a href= "https://minyang.me/" target="_blank">Min Yang</a>, &nbsp
+  <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>, &nbsp
+  <a href= "https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>, &nbsp
+  <a href= "https://www.aminer.cn/profile/binyang-li/56138e6c45cedb33979d5d2e" target="_blank">Binyang Li</a>, &nbsp
+  <a href= "http://faculty.hitsz.edu.cn/huanghejiao" target="_blank">Hejiao Huang</a>
+</ul>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
