@@ -1,4 +1,8 @@
-theme: bulma-clean-theme
+# Site wide configuration
+#theme: jekyll-theme-minimal
 title: Bin Liang  (梁 斌)
 locale: en_US
 description: PhD candidate in Harbin Institute of Technology, Shenzhen, China
+#description: Senior Researcher in Youtu X-Lab, Tencent
+
+#theme: jekyll-theme-leap-day
