@@ -1,8 +1,3 @@
-<!-- Project
-<div class="menu"> <a href="#home">Home</a> 
-<a href="#publications">Publications</a> 
-</div>
- -->
 
 <table border="1">
   <tr>
