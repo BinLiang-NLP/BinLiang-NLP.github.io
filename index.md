@@ -84,6 +84,8 @@
 </table>
 
 <table border="1">
+  <tr>
+    <td width="100%">
 <h1>Selected Publications</h1>
 <table class="imgtable" border="1">    
   <!-- EMNLP 2021-->
@@ -98,6 +100,9 @@
       [<a href="https://aclanthology.org/2021.emnlp-main.19.bib" target="_blank">BibTex</a>]
       </p> </td>
       </tr>
+  </table>
+ </td>
+ </tr>
 </table>
 
 <body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
