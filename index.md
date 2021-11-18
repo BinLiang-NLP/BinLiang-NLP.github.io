@@ -19,6 +19,21 @@
 <table border="1">
   <tr>
     <td width="100%">
+      <h1>Biography</h1>
+      <p> I am currently a Ph.D. candidate at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen. Working with 
+          Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>
+          and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>.  
+  </p>
+      
+    </td>
+  </tr>
+</table>
+
+
+
+<table border="1">
+  <tr>
+    <td width="100%">
       <h1>Selected Publications</h1>
       <h3><b>Conference:</b></h3>
       <p><a href="https://aclanthology.org/P19-1462.pdf">Context-aware Embedding for Targeted Aspect-based Sentiment Analysis</a> (<b><i>ACL 2019</i>，CCF A</b>) <a href="https://github.com/BinLiang-NLP/CAER-TABSA">[code]</a></p>
