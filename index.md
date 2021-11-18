@@ -83,7 +83,7 @@
   </tr>
 </table>
 
-
+<table border="1">
 <h1>Selected Publications</h1>
 <table class="imgtable" border="1">    
   <!-- EMNLP 2021-->
