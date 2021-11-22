@@ -218,7 +218,7 @@ Ruifeng Xu<br>
         <li>Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)</li>
         <li>The North American Chapter of the Association for Computational Linguistics (<strong>NAACL</strong>)</li>
         <li>International Conference on Computational Linguistics (<strong>COLING</strong>)</li>
-        <li>The Web Conference (<b>WWW</b>)</li>
+        <li>The Web Conference (<strong>WWW</strong>)</li>
         <li>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</li>
         <li>International Joint Conferences on Artificial Intelligence (<strong>IJCAI</strong>)</li>
       </ul>
