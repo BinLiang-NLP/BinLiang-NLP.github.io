@@ -32,7 +32,7 @@
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
-      BinLiang's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
+      Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
 <ul>
 <li>Textual sentiment analysis</li>
 <li>Multimodal sentiment analysis</li>
