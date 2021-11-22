@@ -191,7 +191,7 @@ Ruifeng Xu<br>
   <tr>
       <td><img class="proj_thumb" src="/diagrams/acl2019.png" alt="" height="100px"/>&nbsp;</td>
       <td>
-      <p class="pub_title">Context- aware Embedding for Targeted Aspect-based Sentiment Analysis </p>
+      <p class="pub_title">Context-aware Embedding for Targeted Aspect-based Sentiment Analysis </p>
       <p class="pub_author"><b>Bin Liang</b>, Jiachen Du, Ruifeng Xu, Binyang Li, Hejiao Huang<br>
       The 57th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2019</b>).<br>
       [<a href= "https://aclanthology.org/P19-1462.pdf" target="_blank">Paper</a>] 
