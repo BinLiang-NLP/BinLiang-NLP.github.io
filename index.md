@@ -182,7 +182,7 @@ Ruifeng Xu<br>
       <p class="pub_title">Aspect-invariant Sentiment Features Learning: Adversarial Multi-task Learning for Aspect-based Sentiment Analysis </p>
       <p class="pub_author"><b>Bin Liang</b>, Rongdi Yin, Lin Gui, Jiachen Du, Yulan He, Ruifeng Xu<br>
       The 29th ACM International Conference on Information and Knowledge Management (<b>CIKM 2020</b>).<br>
-      [<a href= "https://dl.acm.org/doi/abs/10.1145/3340531.3411868" target="_blank">Paper</a>] 
+      [<a href= "https://dl.acm.org/doi/abs/10.1145/3340531.3411868" target="_blank"><span class="label label-success">Paper</span></a>] 
       [<a href="https://dl.acm.org/doi/abs/10.1145/3340531.3411868" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
