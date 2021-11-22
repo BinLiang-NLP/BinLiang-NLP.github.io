@@ -52,7 +52,7 @@
     <td width="100%">
       <h1>News</h1>
 <ul>
-<li>Oct. 2021 &emsp; Bin Liang won the national scholarship for doctoral students. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
+<li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
 <li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790">[link]</a></li>
 <li>Aug. 2021 &emsp; One paper is accepted to <strong>CIKM 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1761">[link]</a> </li>
 <li>Jul. 2021 &emsp; One paper is accepted to <strong>ACM MM (oral)</strong>. &emsp; <a href="http://119.23.18.63/?p=1755">[link]</a> </li>
