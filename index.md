@@ -214,20 +214,20 @@ Ruifeng Xu<br>
       
 <strong>Conference Program committee:</strong>
       <ul>
-        <li>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>)</li>
-        <li>Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>)</li>
-        <li>The North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>)</li>
-        <li>International Conference on Computational Linguistics (<b>COLING</b>)</li>
+        <li>Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>)</li>
+        <li>Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)</li>
+        <li>The North American Chapter of the Association for Computational Linguistics (<strong>NAACL</strong>)</li>
+        <li>International Conference on Computational Linguistics (<strong>COLING</strong>)</li>
         <li>The Web Conference (<b>WWW</b>)</li>
-        <li>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</li>
-        <li>International Joint Conferences on Artificial Intelligence (<b>IJCAI</b>)</li>
+        <li>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</li>
+        <li>International Joint Conferences on Artificial Intelligence (<strong>IJCAI</strong>)</li>
       </ul>
 <strong>Journal Reviewer:</strong>
       <ul>
-        <li>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</li>
-        <li>IEEE Transactions on Affective Computing (<b>TAC</b>)</li>
-        <li>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</li>
-        <li>Knowledge-based Systems (<b>KBS</b>)</li>
+        <li>IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>)</li>
+        <li>IEEE Transactions on Affective Computing (<strong>TAC</strong>)</li>
+        <li>IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</li>
+        <li>Knowledge-based Systems (<strong>KBS</strong>)</li>
       </ul>
     </td>
   </tr>
