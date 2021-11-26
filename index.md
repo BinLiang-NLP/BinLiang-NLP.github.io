@@ -1,5 +1,5 @@
 
-<table border="0">
+//<table border="0">
   <tr>
     <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
@@ -14,7 +14,7 @@
       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693">Semantic Scholar</a>]</b></p>
     </td>
   </tr>
-</table>
+//</table>
 
 <table border="0">
   <tr>
