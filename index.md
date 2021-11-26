@@ -1,5 +1,5 @@
 
-%<table border="0">
+<table border="1">
   <tr>
     <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
@@ -14,9 +14,9 @@
       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693">Semantic Scholar</a>]</b></p>
     </td>
   </tr>
-%</table>
+</table>
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Biography</h1>
@@ -28,7 +28,7 @@
 </table>
 
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
@@ -47,7 +47,7 @@
 
 
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>News</h1>
@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
 <h1>Selected Publications</h1>
@@ -206,7 +206,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Academic Services</h1>
@@ -234,7 +234,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Awards</h1>
@@ -252,7 +252,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
      <h1>Collaborators</h1>
