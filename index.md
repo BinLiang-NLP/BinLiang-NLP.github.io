@@ -94,7 +94,8 @@
       <p class="pub_title">Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning </p>
       <p class="pub_author"><b>Bin Liang</b>, Wangda Luo, Xiang Li, Lin Gui, Min Yang, Xiaoqi Yu, Ruifeng Xu<br>
       The 30th ACM International Conference on Information and Knowledge Management (<b>CIKM 2021</b>).<br>
-      [<a href= "https://dl.acm.org/doi/pdf/10.1145/3459637.3482096" target="_blank">Paper</a>] 
+      [<a href= "https://dl.acm.org/doi/pdf/10.1145/3459637.3482096" target="_blank">Paper</a>]
+      [<a href="https://github.com/BinLiang-NLP/Scon-ABSA" target="_blank">Code</a>]
       [<a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482096" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
