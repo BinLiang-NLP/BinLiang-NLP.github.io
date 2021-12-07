@@ -61,9 +61,9 @@
 <li>Feb. 2021 &emsp; One paper is accepted to <strong>IEEE Transactions on Affective Computing (TAC)</strong>. &emsp; <a href="http://119.23.18.63/?p=1689">[link]</a> </li>
 <li>Jan. 2021 &emsp; One paper is accepted to <strong>TheWebConf 2021 (WWW 2021)</strong>. &emsp; <a href="http://119.23.18.63/?p=1581">[link]</a> </li>
 <li>Oct. 2020 &emsp; One paper is accepted to <strong>COLING 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1506">[link]</a> </li>
-<li>Jul. 2020 &emsp; One paper is accepted to <strong>NLPCC 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1465">[link]</a> </li>
-<li>Jul. 2020 &emsp; One paper is accepted to <strong>CIKM 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1309">[link]</a> </li>
-<li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; [<a href="http://119.23.18.63/?p=1221" target="_blank">link</a>] </li>
+<li>Jul. 2020 &emsp; One paper is accepted to <strong>NLPCC 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1465" target="_blank">[link]</a> </li>
+<li>Jul. 2020 &emsp; One paper is accepted to <strong>CIKM 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1309" target="_blank">[link]</a> </li>
+<li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; <a href="http://119.23.18.63/?p=1221" target="_blank">[link]</a> </li>
 </ul>
     </td>
   </tr>
