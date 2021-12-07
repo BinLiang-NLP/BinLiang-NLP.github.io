@@ -11,7 +11,7 @@
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>Research Interests: natural language processing, multimodal learning, and data mining</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
-      <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693">Semantic Scholar</a>]</b></p>
+      <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693">Semantic Scholar</a>]</b></p>
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@
 <li>Oct. 2020 &emsp; One paper is accepted to <strong>COLING 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1506">[link]</a> </li>
 <li>Jul. 2020 &emsp; One paper is accepted to <strong>NLPCC 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1465">[link]</a> </li>
 <li>Jul. 2020 &emsp; One paper is accepted to <strong>CIKM 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1309">[link]</a> </li>
-<li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; <a href="http://119.23.18.63/?p=1221">[link]</a> </li>
+<li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; [<a href="http://119.23.18.63/?p=1221" target="_blank">link</a>] </li>
 </ul>
     </td>
   </tr>
