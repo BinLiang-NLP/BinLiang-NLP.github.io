@@ -169,7 +169,7 @@ Ruifeng Xu<br>
       <td>
       <p class="pub_title">Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis </p>
       <p class="pub_author"><b>Bin Liang</b>, Rongdi Yin, Lin Gui, Jiachen Du, Ruifeng Xu<br>
-      The 28th International Conference on Computational Linguistics (<b>COLING 2021</b>).<br>
+      The 28th International Conference on Computational Linguistics (<b>COLING 2020</b>).<br>
       [<a href= "https://aclanthology.org/2020.coling-main.13.pdf" target="_blank">Paper</a>] 
       [<a href= "https://github.com/BinLiang-NLP/InterGCN-ABSA" target="_blank">Code</a>] 
       [<a href="https://aclanthology.org/2020.coling-main.13.bib" target="_blank">BibTex</a>]
