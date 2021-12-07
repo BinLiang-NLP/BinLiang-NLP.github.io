@@ -52,15 +52,15 @@
     <td width="100%">
       <h1>News</h1>
 <ul>
-<li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913">[link]</a> </li>
-<li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790">[link]</a></li>
-<li>Aug. 2021 &emsp; One paper is accepted to <strong>CIKM 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1761">[link]</a> </li>
-<li>Jul. 2021 &emsp; One paper is accepted to <strong>ACM MM (oral)</strong>. &emsp; <a href="http://119.23.18.63/?p=1755">[link]</a> </li>
-<li>Apr. 2021 &emsp; One paper is accepted to <strong>Knowledge-based Systems (KBS)</strong>. &emsp; <a href="http://119.23.18.63/?p=1717">[link]</a> </li>
-<li>Apr. 2021 &emsp; One paper is accepted to <strong>SIGIR 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1709">[link]</a> </li>
-<li>Feb. 2021 &emsp; One paper is accepted to <strong>IEEE Transactions on Affective Computing (TAC)</strong>. &emsp; <a href="http://119.23.18.63/?p=1689">[link]</a> </li>
-<li>Jan. 2021 &emsp; One paper is accepted to <strong>TheWebConf 2021 (WWW 2021)</strong>. &emsp; <a href="http://119.23.18.63/?p=1581">[link]</a> </li>
-<li>Oct. 2020 &emsp; One paper is accepted to <strong>COLING 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1506">[link]</a> </li>
+<li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
+<li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790" target="_blank">[link]</a></li>
+<li>Aug. 2021 &emsp; One paper is accepted to <strong>CIKM 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1761" target="_blank">[link]</a> </li>
+<li>Jul. 2021 &emsp; One paper is accepted to <strong>ACM MM (oral)</strong>. &emsp; <a href="http://119.23.18.63/?p=1755" target="_blank">[link]</a> </li>
+<li>Apr. 2021 &emsp; One paper is accepted to <strong>Knowledge-based Systems (KBS)</strong>. &emsp; <a href="http://119.23.18.63/?p=1717" target="_blank">[link]</a> </li>
+<li>Apr. 2021 &emsp; One paper is accepted to <strong>SIGIR 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1709" target="_blank">[link]</a> </li>
+<li>Feb. 2021 &emsp; One paper is accepted to <strong>IEEE Transactions on Affective Computing (TAC)</strong>. &emsp; <a href="http://119.23.18.63/?p=1689" target="_blank">[link]</a> </li>
+<li>Jan. 2021 &emsp; One paper is accepted to <strong>TheWebConf 2021 (WWW 2021)</strong>. &emsp; <a href="http://119.23.18.63/?p=1581" target="_blank">[link]</a> </li>
+<li>Oct. 2020 &emsp; One paper is accepted to <strong>COLING 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1506" target="_blank">[link]</a> </li>
 <li>Jul. 2020 &emsp; One paper is accepted to <strong>NLPCC 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1465" target="_blank">[link]</a> </li>
 <li>Jul. 2020 &emsp; One paper is accepted to <strong>CIKM 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1309" target="_blank">[link]</a> </li>
 <li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; <a href="http://119.23.18.63/?p=1221" target="_blank">[link]</a> </li>
