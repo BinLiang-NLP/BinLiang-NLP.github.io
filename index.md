@@ -17,21 +17,15 @@
   </table>
 
 
-<table class="imgtable">
-  <tr>
-    <td>
       <h1>Biography</h1>
       <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
           Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>, Prof. <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>,
           and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>. He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>CIKM</strong>, <strong>COLING</strong>, <strong>IEEE TAC</strong>, etc.</p>
-    </td>
-  </tr>
 
 
 
 
-  <tr>
-    <td width="100%">
+
       <h1>Research Interest</h1>
       Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
 <ul>
@@ -42,15 +36,12 @@
 <li>Fake news detection</li>
 <li>Argument mining</li>
 </ul>
-    </td>
-  </tr>
 
 
 
 
 
-  <tr>
-    <td width="100%">
+
       <h1>News</h1>
 <ul>
 <li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
@@ -66,8 +57,7 @@
 <li>Jul. 2020 &emsp; One paper is accepted to <strong>CIKM 2020</strong>. &emsp; <a href="http://119.23.18.63/?p=1309" target="_blank">[link]</a> </li>
 <li>May. 2019 &emsp; One paper is accepted to <strong>ACL 2019</strong>. &emsp; <a href="http://119.23.18.63/?p=1221" target="_blank">[link]</a> </li>
 </ul>
-    </td>
-  </tr>
+
 
 
 
