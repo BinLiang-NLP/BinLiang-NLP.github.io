@@ -28,7 +28,7 @@
 </table>
 
 
-<table class="imgtable">
+
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
@@ -43,11 +43,11 @@
 </ul>
     </td>
   </tr>
-</table>
 
 
 
-<table class="imgtable">
+
+
   <tr>
     <td width="100%">
       <h1>News</h1>
@@ -67,9 +67,9 @@
 </ul>
     </td>
   </tr>
-</table>
 
-<table class="imgtable">
+
+
   <tr>
     <td width="100%">
 <h1>Selected Publications</h1>
@@ -205,10 +205,10 @@ Ruifeng Xu<br>
   </table>
  </td>
  </tr>
-</table>
 
 
-<table class="imgtable">
+
+
   <tr>
     <td width="100%">
       <h1>Academic Services</h1>
@@ -233,10 +233,10 @@ Ruifeng Xu<br>
       </ul>
     </td>
   </tr>
-</table>
 
 
-<table class="imgtable">
+
+
   <tr>
     <td width="100%">
       <h1>Awards</h1>
@@ -251,10 +251,10 @@ Ruifeng Xu<br>
 </ul>
     </td>
   </tr>
-</table>
 
 
-<table class="imgtable">
+
+
   <tr>
     <td width="100%">
      <h1>Collaborators</h1>
