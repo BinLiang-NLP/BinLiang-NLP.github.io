@@ -1,6 +1,6 @@
 <img align="left" src="/binliang-a.jpeg" width="25%">
 <h1>Bin Liang</h1>
-<h3><b>Ph.D. Candidate</b></h3>
+<h4><b>Ph.D. Candidate</b></h4>
 <p><b>Lab: Human Language Technology</b></p>
 <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
 <p><b>Research Interests: natural language processing, multimodal learning, and data mining</b></p>
