@@ -1,4 +1,4 @@
-<img align="right" src="/binliang-a.jpeg" width="25%">
+<img align="left" src="/binliang-a.jpeg" width="25%">
       <h1>Bin Liang</h1>
       <h3><b>Ph.D. Candidate</b></h3>
       <p><b>Lab: Human Language Technology</b></p>
