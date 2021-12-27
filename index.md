@@ -1,5 +1,5 @@
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
@@ -28,7 +28,7 @@
 </table>
 
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
