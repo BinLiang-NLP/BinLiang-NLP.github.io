@@ -1,4 +1,10 @@
-<img align="left" src="/binliang-a.jpeg" width="25%">
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/binliang-a.jpeg" width="100%">
+    </td>
+    <td width="75%">
       <h1>Bin Liang</h1>
       <h3><b>Ph.D. Candidate</b></h3>
       <p><b>Lab: Human Language Technology</b></p>
@@ -6,17 +12,23 @@
       <p><b>Research Interests: natural language processing, multimodal learning, and data mining</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p>
-      
+    </td>
+  </tr>
+</table>
 
-
+<table border="0">
+  <tr>
+    <td width="100%">
       <h1>Biography</h1>
       <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
           Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>, Prof. <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>,
           and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>. He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>CIKM</strong>, <strong>COLING</strong>, <strong>IEEE TAC</strong>, etc.</p>
+    </td>
+  </tr>
+</table>
 
 
-
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
@@ -35,7 +47,7 @@
 
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>News</h1>
@@ -57,11 +69,11 @@
   </tr>
 </table>
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
 <h1>Selected Publications</h1>
-<table class="imgtable" border="1">    
+<table class="imgtable" border="0">    
   <!-- EMNLP 2021-->
   <tr>
       <td><img class="proj_thumb" src="/diagrams/emnlp2021.png" alt="" height="100px"/>&nbsp;</td>
@@ -196,7 +208,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Academic Services</h1>
@@ -224,7 +236,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Awards</h1>
@@ -242,7 +254,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
      <h1>Collaborators</h1>
