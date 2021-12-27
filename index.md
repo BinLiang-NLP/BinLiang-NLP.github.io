@@ -18,7 +18,7 @@
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td>
       <h1>Biography</h1>
       <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
           Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>, Prof. <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>,
