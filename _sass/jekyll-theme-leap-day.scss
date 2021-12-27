@@ -19,7 +19,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   //color:#333;
   color:#9B6E23;
-  margin:0 0 10px;
+  //margin:0 0 10px;
+  margin-top: 0.7em;
+	margin-bottom: 0.3em;
+	padding-bottom: 0.2em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+	border-bottom: 1px solid #aaaaaa;
 }
 
 p, ul, ol, table, pre, dl {
@@ -32,11 +38,13 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  padding-top: 0.8em;
 }
 
 h2 {
   font-size: 24px;
   color:#393939;
+  padding-top: 0.8em;
 }
 
 h3, h4, h5, h6 {
