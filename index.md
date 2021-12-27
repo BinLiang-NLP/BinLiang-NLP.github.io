@@ -1,9 +1,9 @@
 
 <tr>
-    <td width="25%">
-      <img src="/binliang-a.jpeg" width="100%">
-    </td>
-    <td width="75%">
+  <td width="25%">
+     <img src="/binliang-a.jpeg" width="100%">
+  </td>
+  <td width="75%">
       <h1>Bin Liang</h1>
       <h3><b>Ph.D. Candidate</b></h3>
       <p><b>Lab: Human Language Technology</b></p>
@@ -11,7 +11,7 @@
       <p><b>Research Interests: natural language processing, multimodal learning, and data mining</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p>
-    </td>
+  </td>
 </tr>
 
 
