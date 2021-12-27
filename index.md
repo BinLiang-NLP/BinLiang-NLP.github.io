@@ -14,9 +14,9 @@
       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/BinLiang-NLP" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p>
     </td>
   </tr>
-</table>
 
-<table border="0">
+
+
   <tr>
     <td>
       <h1>Biography</h1>
@@ -25,7 +25,7 @@
           and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>. He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>CIKM</strong>, <strong>COLING</strong>, <strong>IEEE TAC</strong>, etc.</p>
     </td>
   </tr>
-</table>
+
 
 
 
