@@ -16,16 +16,10 @@ body {
   background: url(../images/body-background.png);
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5, h6 {
   //color:#333;
   color:#9B6E23;
-  /* margin:0 0 10px; */
-  margin-top: 0.7em;
-  margin-bottom: 0.3em;
-  padding-bottom: 0.2em;
-  line-height: 1.0;
-  padding-top: 0.5em;
-  border-bottom: 1px solid #aaaaaa;
+  margin:0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {
