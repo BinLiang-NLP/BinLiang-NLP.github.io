@@ -26,8 +26,8 @@
 
 
 
-      <h1>Research Interest</h1>
-      Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
+<h1>Research Interest</h1>
+<p>Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):</p>
 <ul>
 <li>Textual sentiment analysis</li>
 <li>Multimodal sentiment analysis</li>
@@ -42,7 +42,7 @@
 
 
 
-      <h1>News</h1>
+<h1>News</h1>
 <ul>
 <li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
 <li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790" target="_blank">[link]</a></li>
@@ -60,9 +60,6 @@
 
 
 
-
-  <tr>
-    <td width="100%">
 <h1>Selected Publications</h1>
 <table class="imgtable" border="0">    
   <!-- EMNLP 2021-->
@@ -194,16 +191,12 @@ Ruifeng Xu<br>
    </tr>
   
   </table>
- </td>
- </tr>
 
 
 
 
-  <tr>
-    <td width="100%">
-      <h1>Academic Services</h1>
-      Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc. Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc. <br><br>
+<h1>Academic Services</h1>
+<p>Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc. Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc.</p><br><br>
       
 <strong>Conference Program Committee:</strong>
       <ul>
@@ -222,15 +215,11 @@ Ruifeng Xu<br>
         <li>IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</li>
         <li>Knowledge-based Systems (<strong>KBS</strong>)</li>
       </ul>
-    </td>
-  </tr>
 
 
 
 
-  <tr>
-    <td width="100%">
-      <h1>Awards</h1>
+<h1>Awards</h1>
 <ul>
   <li>National Scholarship for Doctoral Students, 2021 </li>
   <li>First Prize of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
@@ -240,15 +229,12 @@ Ruifeng Xu<br>
   <li>First Prize of BDCI Competition, 2016 </li>
   <li>Second Prize of BDCI Competition, 2015 </li>
 </ul>
-    </td>
-  </tr>
 
 
 
 
-  <tr>
-    <td width="100%">
-     <h1>Collaborators</h1>
+
+<h1>Collaborators</h1>
 <ul>
   <a href= "https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>, &nbsp;
   <a href= "https://minyang.me/" target="_blank">Min Yang</a>, &nbsp;
@@ -257,9 +243,6 @@ Ruifeng Xu<br>
   <a href= "https://www.aminer.cn/profile/binyang-li/56138e6c45cedb33979d5d2e" target="_blank">Binyang Li</a>, &nbsp;
   <a href= "http://faculty.hitsz.edu.cn/huanghejiao" target="_blank">Hejiao Huang</a>
 </ul>
-    </td>
-  </tr>
-</table>
 
 
 
