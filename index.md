@@ -1,10 +1,10 @@
 
 <table class="imgtable">
   <tr>
-    <td width="25%">
+    <td width="26%">
       <img src="/binliang-a.jpeg" width="100%">
     </td>
-    <td width="75%">
+    <td width="74%">
       <h2>Bin Liang</h2>
       <p><b>Ph.D. Candidate</b></p>
       <p><b>Research Interest: natural language processing, multimodal learning</b></p>
