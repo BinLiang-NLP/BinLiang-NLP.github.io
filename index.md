@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<table border="1">
+<table class="imgtable">
   <tr>
     <td width="100%">
       <h1>Biography</h1>
