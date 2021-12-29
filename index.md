@@ -1,11 +1,12 @@
-<table border="0">
+
+<table class="imgtable">
   <tr>
     <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
     </td>
     <td width="75%">
       <h1>Bin Liang</h1>
-      <h3><b>Ph.D. Candidate</b></h3>
+      <p><b>Ph.D. Candidate</b></p>
       <p><b>Lab: Human Language Technology</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
@@ -14,7 +15,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="100%">
       <h1>Biography</h1>
@@ -26,10 +27,11 @@
 </table>
 
 
-<tr>
-<td width="100%">
-<h1>Research Interest</h1>
-Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
+<table class="imgtable">
+  <tr>
+    <td width="100%">
+      <h1>Research Interest</h1>
+      Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
 <ul>
 <li>Textual sentiment analysis</li>
 <li>Multimodal sentiment analysis</li>
@@ -38,12 +40,13 @@ Bin's research centres on the field of <strong>natural language processing</stro
 <li>Fake news detection</li>
 <li>Argument mining</li>
 </ul>
-</td>
-</tr>
+    </td>
+  </tr>
+</table>
 
 
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="100%">
       <h1>News</h1>
@@ -65,7 +68,7 @@ Bin's research centres on the field of <strong>natural language processing</stro
   </tr>
 </table>
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="100%">
 <h1>Selected Publications</h1>
@@ -204,7 +207,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="100%">
       <h1>Academic Services</h1>
@@ -232,7 +235,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table class="imgtable">
   <tr>
     <td width="100%">
       <h1>Awards</h1>
@@ -250,7 +253,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="0">
+<table class="imgtable">
   <tr>
     <td width="100%">
      <h1>Collaborators</h1>
