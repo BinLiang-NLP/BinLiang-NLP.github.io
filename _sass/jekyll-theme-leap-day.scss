@@ -33,9 +33,7 @@ h1, h2, h3 {
 h2 {
   font-size:28px;
   font-weight: bold;
-  padding-top: -1.0em;
-  padding-bottom: -1em;
-  margin-top: 0.2em;
+  margin-top: 0.3em;
   margin-bottom: 0.2em;
   border-bottom: 1px solid;
 }
@@ -565,10 +563,10 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
-    padding-top: -1.0em;
-    padding-bottom: -1.0em;
-    margin-top: -1.0em;
-    margin-bottom: -1.0em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    margin-top: -0.5em;
+    margin-bottom: -0.5em;
 }
 
 
