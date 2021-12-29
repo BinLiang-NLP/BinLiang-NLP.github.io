@@ -7,6 +7,7 @@
     <td width="75%">
       <h2>Bin Liang</h2>
       <p><b>Ph.D. Candidate</b></p>
+      <p><b>Research Interest: natural language processing, multimodal learning</b></p>
       <p><b>Lab: Human Language Technology</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
