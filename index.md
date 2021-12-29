@@ -1,7 +1,7 @@
 
 <table class="imgtable">
   <tr>
-    <td width="23%">
+    <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
     </td>
     <td width="75%">
