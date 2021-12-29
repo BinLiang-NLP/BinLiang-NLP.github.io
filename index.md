@@ -5,7 +5,7 @@
       <img src="/binliang-a.jpeg" width="100%">
     </td>
     <td width="75%">
-      <h1>Bin Liang</h1>
+      <h3>Bin Liang</h3>
       <p><b>Ph.D. Candidate</b></p>
       <p><b>Lab: Human Language Technology</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
