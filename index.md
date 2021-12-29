@@ -49,7 +49,7 @@
 <table class="imgtable">
   <tr>
     <td width="100%">
-      <h1>News</h1>
+      <h3>News</h3>
 <ul>
 <li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
 <li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790" target="_blank">[link]</a></li>
