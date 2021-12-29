@@ -32,6 +32,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  padding-top: 0.8em;
 }
 
 h2 {
@@ -39,9 +40,13 @@ h2 {
   color:#393939;
 }
 
+h3, h4, h5, h6 {
+  color:#666666;
+}
+
 h3 {
-  font-size: 28px;
-  padding-top: 0.8em;
+  font-size: 18px;
+  line-height: 24px;
 }
 
 h4, h5, h6 {
