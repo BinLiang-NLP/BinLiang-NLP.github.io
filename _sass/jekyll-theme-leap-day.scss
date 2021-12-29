@@ -30,9 +30,9 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1 {
+h2 {
   font-size:28px;
-  padding-top: 0.8em;
+  padding-top: 0.1em;
   padding-bottom: 0.2em;
   margin-top: 0.7em;
   margin-bottom: 0.3em;
@@ -167,7 +167,7 @@ header {
   -webkit-font-smoothing:antialiased;
   min-height: 30px;
 
-  h2 {
+  h1 {
     font: 30px/38px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
@@ -312,7 +312,7 @@ nav {
       // position:relative;
       // right:-12px;
 
-      &.tag-h1 {
+      &.tag-h2 {
         font-size: 1.2em;
 
         a {
@@ -320,7 +320,7 @@ nav {
           color: #333;
         }
 
-        + .tag-h2 {
+        + .tag-h1 {
           font-size: 1.2em;
 
         a {
