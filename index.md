@@ -1,4 +1,4 @@
-<table border="1">
+<table border="0">
   <tr>
     <td width="25%">
       <img src="/binliang-a.jpeg" width="100%">
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Biography</h1>
@@ -26,7 +26,7 @@
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Research Interest</h1>
@@ -45,7 +45,7 @@
 
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>News</h1>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
 <h1>Selected Publications</h1>
@@ -206,7 +206,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
       <h1>Academic Services</h1>
@@ -252,7 +252,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="100%">
      <h1>Collaborators</h1>
