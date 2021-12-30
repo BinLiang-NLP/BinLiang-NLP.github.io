@@ -212,7 +212,7 @@ Ruifeng Xu<br>
   <tr>
     <td width="100%">
       <h2>Academic Services</h2>
-      Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc. Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc. 
+      Program committee of ACL, EMNLP, NAACL, COLING, WWW, AAAI, IJCAI, etc. Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS), etc. <br><br>
 <strong>Conference Program Committee:</strong>
       <ul>
         <li>Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>)</li>
@@ -222,7 +222,9 @@ Ruifeng Xu<br>
         <li>The Web Conference (<strong>WWW</strong>)</li>
         <li>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</li>
         <li>International Joint Conferences on Artificial Intelligence (<strong>IJCAI</strong>)</li>
+      </ul>
 <strong>Journal Reviewer:</strong>
+      <ul>
         <li>IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>)</li>
         <li>IEEE Transactions on Affective Computing (<strong>TAC</strong>)</li>
         <li>IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</li>
