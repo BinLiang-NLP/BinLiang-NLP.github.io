@@ -52,7 +52,7 @@
     <td width="100%">
       <h2>News</h2>
 <ul>
-<li>Dec. 2021 &emsp; Bin Liang won the <strong>Frontrunner 5000 top articles in outstanding S\&T journals of China</strong>.</li>
+<li>Dec. 2021 &emsp; Bin Liang won the <strong>Frontrunner 5000 top articles in outstanding S&T journals of China</strong>.</li>
 <li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
 <li>Aug. 2021 &emsp; Two papers are accepted to <strong>EMNLP 2021 Main Conference</strong>. &emsp; <a href="http://119.23.18.63/?p=1790" target="_blank">[link]</a></li>
 <li>Aug. 2021 &emsp; One paper is accepted to <strong>CIKM 2021</strong>. &emsp; <a href="http://119.23.18.63/?p=1761" target="_blank">[link]</a> </li>
