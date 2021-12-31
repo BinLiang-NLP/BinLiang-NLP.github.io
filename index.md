@@ -241,6 +241,7 @@ Ruifeng Xu<br>
     <td width="100%">
       <h2>Awards</h2>
 <ul>
+  <li>Frontrunner 5000 top articles in outstanding S&T journals of China, 2021 </li>
   <li>National Scholarship for Doctoral Students, 2021 </li>
   <li>First Prize of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
   <li>Outstanding Graduate Award of Soochow University, 2018</li>
