@@ -131,7 +131,7 @@
       <td><img class="proj_thumb" src="/diagrams/sigir2021.png" alt="" height="100px"/>&nbsp;</td>
       <td>
       <p class="pub_title">Affective Dependency Graph for Sarcasm Detection </p>
-      <p class="pub_author">Chenwei Lou*, <b>Bin Liang*</b>, Lin Gui, Yulan He, Yixue Dang, Ruifeng Xu<br>
+      <p class="pub_author">Chenwei Lou*, <b>Bin Liang* (equal contribution)</b>, Lin Gui, Yulan He, Yixue Dang, Ruifeng Xu<br>
       The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2021</b>).<br>
       [<a href= "http://wrap.warwick.ac.uk/153596/7/WRAP-affective-dependency-graph-sarcasm-detection-Gui-2021.pdf" target="_blank">Paper</a>]
       [<a href= "https://github.com/BinLiang-NLP/ADGCN-Sarcasm" target="_blank">Code</a>]
