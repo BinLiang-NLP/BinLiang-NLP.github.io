@@ -78,7 +78,7 @@
 <table class="imgtable" border="1">    
   <!-- WWW 2022-->
   <tr>
-      <td><img class="proj_thumb" src="/diagrams/emnlp2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td><img class="proj_thumb" src="/diagrams/www2022.png" alt="" height="100px"/>&nbsp;</td>
       <td>
       <p class="pub_title">Zero-Shot Stance Detection via Contrastive Learning </p>
       <p class="pub_author"><b>Bin Liang</b>, Zixiao Chen, Lin Gui, Yulan He, Min Yang, Ruifeng Xu <br>
