@@ -76,6 +76,17 @@
     <td width="100%">
 <h2>Selected Publications</h2>
 <table class="imgtable" border="1">    
+  <!-- WWW 2022-->
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/emnlp2021.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Zero-Shot Stance Detection via Contrastive Learning </p>
+      <p class="pub_author"><b>Bin Liang</b>, Zixiao Chen, Lin Gui, Yulan He, Min Yang, Ruifeng Xu <br>
+      The Web Conference 2022 (<b>WWW 2022</b>).<br>
+      [<a href= "http://www.hitsz-hlt.com/paper/Zero-Shot-Stance-Detection-via-Contrastive-Learning-WWW2022.pdf" target="_blank">Paper</a>] 
+      [<a href="https://github.com/BinLiang-NLP/PT-HCL" target="_blank">Code</a>]
+      </p> </td>
+   </tr>
   <!-- EMNLP 2021-->
   <tr>
       <td><img class="proj_thumb" src="/diagrams/emnlp2021.png" alt="" height="100px"/>&nbsp;</td>
