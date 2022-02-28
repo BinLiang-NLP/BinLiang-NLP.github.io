@@ -52,6 +52,7 @@
     <td width="100%">
       <h2>News</h2>
 <ul>
+<li>Feb. 2022 &emsp; Two papers are accepted to <strong>ACL 2022 Main Conference</strong>. &emsp; <a href="http://www.hitsz-hlt.com/%e7%a0%94%e7%a9%b6%e7%bb%84%e4%ba%94%e7%af%87%e8%ae%ba%e6%96%87%e8%8e%b7acl-2022%e4%b8%bb%e4%bc%9a%e5%bd%95%e5%8f%96/" target="_blank">[link]</a> </li>
 <li>Jan. 2022 &emsp; One paper is accepted to <strong>TheWebConf 2022 (WWW 2022)</strong>. &emsp; <a href="https://mp.weixin.qq.com/s/Sw-AymjRCbS7JPcacJ4Ykw" target="_blank">[link]</a> </li>
 <li>Dec. 2021 &emsp; Bin Liang won the <strong>Frontrunner 5000 top articles in outstanding S&T journals of China</strong>.</li>
 <li>Oct. 2021 &emsp; Bin Liang won the <strong>national scholarship for doctoral students</strong>. &emsp; <a href="http://119.23.18.63/?p=1913" target="_blank">[link]</a> </li>
