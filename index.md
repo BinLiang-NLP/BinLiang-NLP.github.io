@@ -52,6 +52,7 @@
     <td width="100%">
       <h2>News</h2>
 <ul>
+<li>Apr. 2022 &emsp; One paper is accepted to <strong>ACM TOIS</strong>. &emsp; <a href="http://www.hitsz-hlt.com/2198-2/" target="_blank">[link]</a> </li>
 <li>Feb. 2022 &emsp; Two papers are accepted to <strong>ACL 2022 Main Conference</strong>. &emsp; <a href="http://www.hitsz-hlt.com/%e7%a0%94%e7%a9%b6%e7%bb%84%e4%ba%94%e7%af%87%e8%ae%ba%e6%96%87%e8%8e%b7acl-2022%e4%b8%bb%e4%bc%9a%e5%bd%95%e5%8f%96/" target="_blank">[link]</a> </li>
 <li>Jan. 2022 &emsp; One paper is accepted to <strong>TheWebConf 2022 (WWW 2022)</strong>. &emsp; <a href="https://mp.weixin.qq.com/s/Sw-AymjRCbS7JPcacJ4Ykw" target="_blank">[link]</a> </li>
 <li>Dec. 2021 &emsp; Bin Liang won the <strong>Frontrunner 5000 top articles in outstanding S&T journals of China</strong>.</li>
@@ -290,7 +291,9 @@ Ruifeng Xu<br>
 <body><a href="https://clustrmaps.com/site/1bk2o"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&cl=ffffff" /></a></body>
 -->
 
+<!-- 
 <body><a href='https://clustrmaps.com/site/1bk2o'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=388&t=tt&d=i4DNhWOIK9RnvpW3FT3L0ObAof0aCZxFdc-nRpZwpJw&co=4f4e65&ct=ffffff'/></a></body>
+-->
 
 <!-- 
 <body><a href="https://info.flagcounter.com/d2N3"><img src="https://s05.flagcounter.com/map/d2N3/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></body> 
