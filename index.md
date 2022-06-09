@@ -79,6 +79,29 @@
     <td width="100%">
 <h2>Selected Publications</h2>
 <table class="imgtable" border="1">
+  <!-- TOIS 2022 -->
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/TOIS2022.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Few-Shot Aspect Category Sentiment Analysis via Meta-Learning</p>
+      <p class="pub_author"><b>Bin Liang</b>, Xiang Li, Lin Gui, Yonghao Fu, Yulan He, Min Yang, Ruifeng Xu <br>
+      ACM Transactions on Information Systems (<b>TOIS</b>).<br>
+      [<a href= "https://dl.acm.org/doi/pdf/10.1145/3529954" target="_blank">Paper</a>] 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3529954" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
+  <!-- ACL 2022 zssd-->
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/ACL2022-zssd.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection</p>
+      <p class="pub_author"><b>Bin Liang</b>, Qinglin Zhu, Xiang Li, Min Yang, Lin Gui, Yulan He, Ruifeng Xu <br>
+      The 60th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2022</b>).<br>
+      [<a href= "https://aclanthology.org/2022.acl-long.7.pdf" target="_blank">Paper</a>] 
+      [<a href="https://github.com/HITSZ-HLT/JointCL" target="_blank">Code</a>]
+      [<a href="https://aclanthology.org/2022.acl-long.7.bib" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
   <!-- ACL 2022 sarcasm-->
   <tr>
       <td><img class="proj_thumb" src="/diagrams/ACL2022-Sarcasm.png" alt="" height="100px"/>&nbsp;</td>
@@ -87,7 +110,7 @@
       <p class="pub_author"><b>Bin Liang</b>, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, Wenjie Pei, Ruifeng Xu <br>
       The 60th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2022</b>).<br>
       [<a href= "https://aclanthology.org/2022.acl-long.124.pdf" target="_blank">Paper</a>] 
-      [<a href="https://github.com/HITSZ-HLT/JointCL" target="_blank">Code</a>]
+      [<a href="https://github.com/HITSZ-HLT/CMGCN" target="_blank">Code</a>]
       [<a href="https://aclanthology.org/2022.acl-long.124.bib" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
