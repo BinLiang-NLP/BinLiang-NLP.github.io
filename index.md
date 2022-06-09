@@ -78,7 +78,19 @@
   <tr>
     <td width="100%">
 <h2>Selected Publications</h2>
-<table class="imgtable" border="1">    
+<table class="imgtable" border="1">
+  <!-- ACL 2022 sarcasm-->
+  <tr>
+      <td><img class="proj_thumb" src="/diagrams/ACL2022-Sarcasm.png" alt="" height="100px"/>&nbsp;</td>
+      <td>
+      <p class="pub_title">Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network </p>
+      <p class="pub_author"><b>Bin Liang</b>, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, Wenjie Pei, Ruifeng Xu <br>
+      The 60th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2022</b>).<br>
+      [<a href= "https://aclanthology.org/2022.acl-long.124.pdf" target="_blank">Paper</a>] 
+      [<a href="https://github.com/HITSZ-HLT/JointCL" target="_blank">Code</a>]
+      [<a href="https://aclanthology.org/2022.acl-long.124.bib" target="_blank">BibTex</a>]
+      </p> </td>
+   </tr>
   <!-- WWW 2022-->
   <tr>
       <td><img class="proj_thumb" src="/diagrams/www2022.png" alt="" height="100px"/>&nbsp;</td>
