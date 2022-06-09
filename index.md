@@ -123,7 +123,7 @@
       The Web Conference 2022 (<b>WWW 2022</b>).<br>
       [<a href= "https://dl.acm.org/doi/pdf/10.1145/3485447.3511994" target="_blank">Paper</a>] 
       [<a href="https://github.com/BinLiang-NLP/PT-HCL" target="_blank">Code</a>]
-      [<a href="https://dl.acm.org/doi/fullHtml/10.1145/3485447.3511994" target="_blank">BibTex</a>]
+      [<a href="https://dl.acm.org/doi/10.1145/3485447.3511994" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
   <!-- EMNLP 2021-->
