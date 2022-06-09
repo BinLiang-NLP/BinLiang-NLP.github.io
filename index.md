@@ -98,8 +98,9 @@
       <p class="pub_title">Zero-Shot Stance Detection via Contrastive Learning </p>
       <p class="pub_author"><b>Bin Liang</b>, Zixiao Chen, Lin Gui, Yulan He, Min Yang, Ruifeng Xu <br>
       The Web Conference 2022 (<b>WWW 2022</b>).<br>
-      [<a href= "http://www.hitsz-hlt.com/paper/Zero-Shot-Stance-Detection-via-Contrastive-Learning-WWW2022.pdf" target="_blank">Paper</a>] 
+      [<a href= "https://dl.acm.org/doi/fullHtml/10.1145/3485447.3511994" target="_blank">Paper</a>] 
       [<a href="https://github.com/BinLiang-NLP/PT-HCL" target="_blank">Code</a>]
+      [<a href="https://dl.acm.org/doi/fullHtml/10.1145/3485447.3511994" target="_blank">BibTex</a>]
       </p> </td>
    </tr>
   <!-- EMNLP 2021-->
