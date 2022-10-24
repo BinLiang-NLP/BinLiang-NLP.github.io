@@ -6,7 +6,7 @@
     </td>
     <td width="74%">
       <h2>Bin Liang</h2>
-      <p><b>Ph.D. Candidate</b></p>
+      <p><b>Ph.D.</b></p>
       <p><b>Research Interest: natural language processing, multimodal learning</b></p>
       <p><b>Lab: Human Language Technology</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
@@ -20,7 +20,7 @@
   <tr>
     <td width="100%">
       <h2>Biography</h2>
-      <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
+      <p> Bin Liang got his Ph.D at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology (Shenzhen) under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
           Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>, Prof. <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>,
           and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>. He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.</p>
     </td>
@@ -52,6 +52,7 @@
     <td width="100%">
       <h2>News</h2>
 <ul>
+<li>Oct. 2022 &emsp; Five papers are accepted to <strong>EMNLP 2022</strong> (3 main & 2 findings). &emsp; <a href="http://www.hitsz-hlt.com/2198-2/" target="_blank">[link]</a> </li>
 <li>Apr. 2022 &emsp; One paper is accepted to <strong>ACM TOIS</strong>. &emsp; <a href="http://www.hitsz-hlt.com/2198-2/" target="_blank">[link]</a> </li>
 <li>Apr. 2022 &emsp; Two papers are accepted to <strong>SIGIR 2022</strong>. &emsp; <a href="http://www.hitsz-hlt.com/%e7%a0%94%e7%a9%b6%e5%9b%a2%e9%98%9f%e5%9b%9b%e7%af%87%e8%ae%ba%e6%96%87%e8%8e%b7sigir-2022%e4%b8%bb%e4%bc%9a%e5%bd%95%e7%94%a8/" target="_blank">[link]</a> </li>
 <li>Feb. 2022 &emsp; Two papers are accepted to <strong>ACL 2022 Main Conference</strong>. &emsp; <a href="http://www.hitsz-hlt.com/%e7%a0%94%e7%a9%b6%e7%bb%84%e4%ba%94%e7%af%87%e8%ae%ba%e6%96%87%e8%8e%b7acl-2022%e4%b8%bb%e4%bc%9a%e5%bd%95%e5%8f%96/" target="_blank">[link]</a> </li>
