@@ -301,14 +301,14 @@ Ruifeng Xu<br>
   <li>Second-class Award of the 7th National Youth Artificial Intelligence Innovation of CAAI, 2022 (Team leader)</li>
   <li>Excellent Science & Technology Academic Paper for the 2022 Shenzhen 2nd Excellent Science & Technology
     Academic Paper (The first author)</li>
-  <li>Frontrunner 5000 top articles in outstanding S&T journals of China, 2021 </li>
+  <li>Frontrunner 5000 top articles in outstanding S&T journals of China, 2020 (The first author)</li>
   <li>National Scholarship for Doctoral Students, 2021 </li>
   <li>First Prize of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
   <li>Outstanding Graduate Award of Soochow University, 2018</li>
   <li>Outstanding Student Paper Award of Soochow University, 2018</li>
   <li>National Scholarship for Postgraduate Students, 2017</li>
-  <li>First Prize of BDCI Competition, 2016 </li>
-  <li>Second Prize of BDCI Competition, 2015 </li>
+  <li>First Prize of BDCI Competition, 2016 (1st participator)</li>
+  <li>Second Prize of BDCI Competition, 2015 (1st participator)</li>
 </ul>
     </td>
   </tr>
