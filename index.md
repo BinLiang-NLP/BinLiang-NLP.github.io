@@ -292,7 +292,15 @@ Ruifeng Xu<br>
     <td width="100%">
       <h2>Awards</h2>
 <ul>
-  <li>Outstanding PhD Thesis Award of Shenzhen Association for Artificial Intelligence (title: Research on Aspect-Level Sentiment Analysis and Stance Detection in Social Media), 2023![image](https://user-images.githubusercontent.com/20014345/220639575-3383df45-e7f9-4604-9d44-23e91e416ef5.png)</li>
+  <li>Outstanding PhD Thesis Award of Shenzhen Association for Artificial Intelligence (title: Research on Aspect-Level Sentiment Analysis and Stance Detection in Social Media), 2023</li>
+  <li>Outstanding PhD Thesis Award of Harbin Institute of Technology (title: Research on Aspect-Level Sentiment Analysis and Stance Detection in Social Media), 2022</li>
+  <li>First-class Award of the Demo Competition of ICDIS 2022 (Team leader)</li>
+  <li>Best Paper Award of CCL 2022 (The first author)</li>
+  <li>First Prize of Weichang Qian Chinese Information Processing Science and Technology Award, 2022 (7th
+    participator)</li>
+  <li>Second-class Award of the 7th National Youth Artificial Intelligence Innovation of CAAI, 2022 (Team leader)</li>
+  <li>Excellent Science & Technology Academic Paper for the 2022 Shenzhen 2nd Excellent Science & Technology
+    Academic Paper (The first author)</li>
   <li>Frontrunner 5000 top articles in outstanding S&T journals of China, 2021 </li>
   <li>National Scholarship for Doctoral Students, 2021 </li>
   <li>First Prize of the Fifth National Youth Artificial Intelligence Innovation of CAAI, 2019</li>
