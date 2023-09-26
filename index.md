@@ -2,7 +2,7 @@
 <table class="imgtable">
   <tr>
     <td width="26%">
-      <img src="/binliang-a.jpeg" width="100%">
+      <img src="/binliang-fig.jpeg" width="100%">
     </td>
     <td width="74%">
       <h2>Bin Liang</h2>
