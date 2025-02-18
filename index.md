@@ -292,6 +292,7 @@ Ruifeng Xu<br>
     <td width="100%">
       <h2>Awards</h2>
 <ul>
+  <li>CIPS Doctoral Dissertation Award (8 Nationwide), 2023</li>
   <li>Outstanding PhD Thesis Award of Shenzhen Association for Artificial Intelligence (title: Research on Aspect-Level Sentiment Analysis and Stance Detection in Social Media), 2023</li>
   <li>Outstanding PhD Thesis Award of Harbin Institute of Technology (title: Research on Aspect-Level Sentiment Analysis and Stance Detection in Social Media), 2022</li>
   <li>First-class Award of the Demo Competition of ICDIS 2022 (Team leader)</li>
